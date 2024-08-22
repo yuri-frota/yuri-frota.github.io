@@ -1,0 +1,234 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+
+  <title>Yuri Frota - Home Page</title>
+  <meta name="description" content="The Home Page of Professor Yuri Frota">
+  <meta name="keywords" content="IC-UFF">
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="Generator" content="Front Page 2003">
+  <link href="arquivos/style.css" type="text/css" rel="stylesheet">
+
+</head>
+
+<body>
+	
+  <table summary="page layout table" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+
+ <tr valign="top">
+      <td width="90%" class="navigation" colspan="2" align="left"><img src="arquivos/yuri2.jpg"></td>
+      <td width="10%" class="navigation" colspan="2" align="left"> <a href="http://www.uff.br"> <img src="arquivos/uff.png"></td> </a>
+    </tr>
+
+    <tr valign="top">
+      <td class="bottomnavbar" colspan="2" align="left"></td>
+      <td class="bottomnavbar" colspan="2" align="left"></td>
+    </tr>
+
+  </tbody>
+</table>
+	
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+
+    <tr valign="top">
+
+	<td class="navigation" width="160"> 
+        <div id="nav-container">
+        <ul id="nav-list">
+			<li><a href="http://www.ic.uff.br/%7Eyuri"><span style="text-decoration: underline;">Home</a></li>
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/cv.html"><span style="text-decoration: underline;">Curriculum</span></a></li>
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/ap.html"><span style="text-decoration: underline;">Research Areas</span></a></li>
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/cur.html"><span style="text-decoration: underline;">Teaching</span></a></li>
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/li.html"><span style="text-decoration: underline;">Links</a></li> 
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/per.html"><span style="text-decoration: underline;">Personal</a></li>
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/co.html"><span style="text-decoration: underline;">Contacts</a></li>
+      </ul>
+      </div>
+      <a href="http://www.ic.uff.br"> <img src="arquivos/logo_ic_uff.png"> </a>
+      </td>
+
+      <td class="body">&nbsp;
+
+      <table style="width: 414px; height: 76px;" border="0" cellpadding="0" cellspacing="0">
+
+        <tbody>
+
+          <tr>
+
+<img style="width: 100px; height: 100px;" src="arquivos/thumbs.png">
+<p><strong>Novidades:</strong></p>
+<ul>
+
+<!--
+
+<li>
+Programas da aula do dia 07 de junho (<a href="http://www.ic.uff.br/~yuri/prog3/minimax.f"> minimax</a> e <a
+href="http://www.ic.uff.br/~yuri/prog3/magico.f">  quadrado magico</a>)
+</li>
+
+<li>
+Lista 4 (Gabarito) <a href="http://www.ic.uff.br/~yuri/prog3/l4_sol.pdf"> aqui.</a>
+</li>
+
+<li>
+Notas da P2 <a href="http://www.ic.uff.br/~yuri/prog3/2016.1.pdf"> aqui.</a> Vista de prova durante a VR (26 de julho)
+</li>
+
+<li>
+Notas da VR <a href="http://www.ic.uff.br/~yuri/prog3/2016.1.pdf"> aqui.</a> Vista de prova durante a VS (02 de agosto)
+</li>
+
+
+<li>
+Notas da VS <a href="http://www.ic.uff.br/~yuri/prog3/2016.1.pdf"> aqui.</a> Boas Ferias
+</li>
+
+
+<li>
+<font color="red"> Dia 27 de maio (quarta), nao teremos aula </font>
+</li>
+
+<li>
+Notas da P2 <a href="http://www.ic.uff.br/~yuri/prog3/notas_2_4.pdf"> aqui.</a>
+</li>
+
+<li>
+Notas da VR <a href="http://www.ic.uff.br/~yuri/prog3/notas_2_4.pdf"> aqui.</a> Vista de prova na proxima segunda durante a VS.
+</li>
+
+<li>
+Notas da VS <a href="http://www.ic.uff.br/~yuri/prog3/notas_2_4.pdf"> aqui.</a>
+</li>
+
+<li>
+Exercicio dos numeros BFFs <a href="http://www.ic.uff.br/~yuri/prog3/q1.f"> aqui</a>
+</li>
+<li>
+<font color="red"> Notas da P1 <a href="http://www.ic.uff.br/~yuri/prog3/notas_2014_2.pdf"> aqui. </a> (Finalmente) </font>
+</li>
+<li>
+<font color="red"> Notas da P2 <a href="http://www.ic.uff.br/~yuri/prog3/notas_2014_2.pdf"> aqui. </a> </font> 
+</li>
+<li>
+<font color="red"> Notas da VS <a href="http://www.ic.uff.br/~yuri/prog3/notas_2014_2.pdf"> aqui. </a>
+<br>Boas Ferias </font>
+</li>
+
+<img style="width: 350px; height: 230px; border:5px solid black;" alt="" src="arquivos/thunderdome.png">
+<img style="width: 350px; height: 230px; border:5px solid black;" alt="" src="arquivos/furaolho.png"><br>
+
+-->
+
+</ul>
+<p><strong>Bibliografia:</strong></p>
+<ul>
+        <li> Aprendendo Python <br>
+             Autor: Mark Lutz e David Ascher <br>
+             Editora Oreilly
+        </li>
+
+        <br>
+
+        <li> Use a Cabeca! Python <br> 
+             Autor: Paul Barry <br>
+             Editora Alta Books
+        </li>
+        <br>
+
+        <li> *Qualquer outro livro de Python*
+        </li>
+
+
+</ul>
+<p><strong>Salas de Aulas:</strong></p>
+<ul>
+Quartas e Sextas 11 as 13 horas. 
+</ul>
+
+<p><strong>Dias sem aula (feriados, recessos, etc) :</strong></p>
+<ul>
+<li> 14 de abril (Semana Santa) </li>
+<li> 21 de abril (Tiradentes) </li>
+</ul>
+
+<img style="width: 100px; height: 100px;" src="arquivos/aplus.png">
+<p><strong>Avaliacoes :</strong></p>
+<ul>
+<li> 17 de maio P1 </li>
+<li> 05 de julho P2 </li>
+<li> 07 de julho VR </li>
+<li> 14 de julho VS </li> 
+</ul>
+<p><strong>Objetivos do curso:</strong></p>
+<ul>
+  <li> Algoritmos e estruturas basicas de dados </li>
+  <li> Comandos e estruturas de controle</li>
+  <li> Subprogramacao</li>
+  <li> Metodologia de desenvolvimento de programa ou subprograma</li>
+</ul>
+
+<p><strong>Software:</strong></p>
+<ul>
+  <li> Instalacao do <a
+href="https://www.python.org/downloads/">Python</a>
+
+  <li> Ambiente de programacao para python : <a
+  href="https://www.jetbrains.com/pycharm-educational/">PyCharm</a>. 
+
+<li>
+<font color="red"> 
+video tutorial de como instalar o python e o ambiente de programacao PyCharm <a href="http://www.ic.uff.br/~yuri/python/instalacao.mp4"> aqui. </a>
+</font>
+</li>
+
+  <li> Existem apps para tablets e celulares que permitem programar em Python. Faca a busca na loja de aplicativos do seu aparelho 
+</li>
+</ul>
+<p><strong>Sistema de Notas:</strong></p>
+<ul>
+  <li> Nota Final = ((P1 + P2) / 2) </li>
+  <li> IMPORTANTE - VR (i.e. 2 chamada) Pode ser feita como avaliacao substituta tanto da P1 ou da P2, nao sendo necessario pedido formal, basta nao ter 
+feito uma das duas provas (P1 ou P2)</a>. Porem, apenas quem faltou uma das duas provas que pode fazer VR
+</ul>
+<br>
+</ul>
+
+
+</table>
+
+
+
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+<table summary="page layout table" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tbody>
+    <tr valign="top">
+
+<td class="bottomnavbar" align="left">
+<b>
+Phone: +55 (21) 2629-5637<br>
+Fax: +55 (21) 2629-5627
+</b>
+</td>
+
+<td class="bottomnavbar" align="right">
+<b>yuri (a) ic (dot) uff (dot) br</b>
+</td>
+
+</tr>
+
+  </tbody>
+</table>
+
+</body>
+</html>

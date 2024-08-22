@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+
+  <title>Yuri Frota - Home Page</title>
+  <meta name="description" content="The Home Page of Professor Yuri Frota">
+  <meta name="keywords" content="IC-UFF">
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="Generator" content="Front Page 2003">
+  <link href="arquivos/style.css" type="text/css" rel="stylesheet">
+
+</head>
+
+<body>
+	
+  <table summary="page layout table" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+
+ <tr valign="top">
+      <td width="90%" class="navigation" colspan="2" align="left"><img src="arquivos/yuri2.jpg"></td>
+      <td width="10%" class="navigation" colspan="2" align="left"> <a href="http://www.uff.br"> <img src="arquivos/uff.png"></td> </a>
+    </tr>
+
+    <tr valign="top">
+      <td class="bottomnavbar" colspan="2" align="left"></td>
+      <td class="bottomnavbar" colspan="2" align="left"></td>
+    </tr>
+
+  </tbody>
+</table>
+	
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+
+    <tr valign="top">
+
+	<td class="navigation" width="160"> 
+        <div id="nav-container">
+        <ul id="nav-list">
+			<li><a href="http://www.ic.uff.br/%7Eyuri"><span style="text-decoration: underline;">Home</a></li>
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/cv.html"><span style="text-decoration: underline;">Curriculum</span></a></li>
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/ap.html"><span style="text-decoration: underline;">Research Areas</span></a></li>
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/cur.html"><span style="text-decoration: underline;">Teaching</span></a></li>
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/li.html"><span style="text-decoration: underline;">Links</a></li> 
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/per.html"><span style="text-decoration: underline;">Personal</a></li>
+                        <li><a href="http://www.ic.uff.br/%7Eyuri/co.html"><span style="text-decoration: underline;">Contacts</a></li>
+      </ul>
+      </div>
+      <a href="http://www.ic.uff.br"> <img src="arquivos/logo_ic_uff.png"> </a>
+      </td>
+
+      <td class="body">&nbsp;
+
+      <table style="width: 414px; height: 76px;" border="0" cellpadding="0" cellspacing="0">
+
+        <tbody>
+
+          <tr>
+
+<img style="width: 100px; height: 100px;" src="arquivos/bitibas_thumbs.png">
+<p><strong>Novidades:</strong></p>
+<ul>
+
+
+<li>
+Lista 1 (Fluxograma e Decisao) <a href="http://www.ic.uff.br/~yuri/python/l1.pdf"> aqui.</a>
+</li>
+
+<li>
+Programas da aula de laboratorio de 06/09: <a href="http://www.ic.uff.br/~yuri/python/maior.py"> Maior, </a>
+<a href="http://www.ic.uff.br/~yuri/python/mercado.py"> Mercado, </a> 
+<a href="http://www.ic.uff.br/~yuri/python/ordem3.py"> Ordem, </a>
+<a href="http://www.ic.uff.br/~yuri/python/salario.py"> Salario</a>  
+</li>
+
+<li>
+Os horarios para monitores da nossa disciplina sao: Lucas Costa- Terca (9-11 e 14-18) e Quinta (9-11), Mariana Lopes- Terca (11-13), Quarta (16-18) e Sexta (9-13).
+O atendimento eh na sala de monitoria (terrio do predio da Computacao). Caso o monitor nao estiver no horario designado, checar na secretaria do curso (4 andar) se o monitor mudou os horarios, 
+caso contrario, por favor preencha uma reclamacao de que o monitor nao estava no horario designado.  
+</li>
+
+
+<li>
+Lista 1 (GABARITO) <a href="http://www.ic.uff.br/~yuri/python/l1_sol.pdf"> aqui.</a>
+</li>
+
+<li>
+Lista 2 (Repeticao) <a href="http://www.ic.uff.br/~yuri/python/l2.pdf"> aqui.</a>
+</li>
+
+<li>
+Programas da aula de laboratorio de 20/09: <a href="http://www.ic.uff.br/~yuri/python/triangular.py"> Numero triangular, </a>
+<a href="http://www.ic.uff.br/~yuri/python/neperiano.py"> Neperiano, </a>
+<a href="http://www.ic.uff.br/~yuri/python/divisao.py"> Divisao </a>
+</li>
+
+<li>
+Lista 2 (GABARITO) <a href="http://www.ic.uff.br/~yuri/python/l2_sol.pdf"> aqui.</a>
+</li>
+
+<li>
+ESTUDEM PARA P1! <img style="width: 100px; height: 100px;" src="arquivos/bitibas_angry.png">
+</li>
+
+<li>
+Lista 3 (Vetores) <a href="http://www.ic.uff.br/~yuri/python/l4.pdf"> aqui.</a>
+</li>
+
+<li>
+Programas da aula de laboratorio de 11/10: <a href="http://www.ic.uff.br/~yuri/python/repeticao.py"> repeticao e </a>
+<a href="http://www.ic.uff.br/~yuri/python/shift.py"> Shift do 13.
+</a>
+</li>
+
+<li>
+Notas da P1 <a href="http://www.ic.uff.br/~yuri/python/notas2017.pdf"> aqui.</a>
+<img style="width: 100px; height: 100px;" src="arquivos/bitibas_evil.png">
+</li>
+
+<li>
+Lista 3 (GABARITO) <a href="http://www.ic.uff.br/~yuri/python/l4_sol.pdf"> aqui.</a>
+</li>
+
+<li>
+Lista 4 (Matrizes) <a href="http://www.ic.uff.br/~yuri/python/l5.pdf"> aqui.</a>
+</li>
+
+<li>
+Programas da aula de laboratorio de 01/11: <a href="http://www.ic.uff.br/~yuri/python/somalinhacoluna.py"> Soma de Colunas e Linhas, </a>
+<a href="http://www.ic.uff.br/~yuri/python/magico.py"> Quadrado Magico, </a>
+<a href="http://www.ic.uff.br/~yuri/python/ordenamatriz.py"> Ordena Matriz </a>
+</li>
+
+<li>
+Programa da aula de 06/11: <a href="http://www.ic.uff.br/~yuri/python/matriz_ordenada.py"> matriz ordenada </a>
+</li>
+
+
+<li>
+Programa da aula de 08/11: <a href="http://www.ic.uff.br/~yuri/python/velha2.py"> jogo da velha </a> 
+</li>
+
+<li>
+Lista 5 Matrizes (GABARITO) <a href="http://www.ic.uff.br/~yuri/python/l5_sol.pdf"> aqui.</a>
+</li>
+
+<li>
+Lista 6 (FUNCOES) <a href="http://www.ic.uff.br/~yuri/python/l6.pdf"> aqui.</a>
+</li>
+
+<li>
+<img style="width: 100px; height: 100px;" src="arquivos/bitibas_youcandoit.png">
+</li>
+
+<li>
+Lista 6 de Funcoes (GABARITO) <a href="http://www.ic.uff.br/~yuri/python/l6_sol.pdf"> aqui.</a>
+</li>
+
+<li>
+Notas da P2 <a href="http://www.ic.uff.br/~yuri/python/notas2017.pdf"> aqui.</a>
+<img style="width: 100px; height: 100px;" src="arquivos/bitibas_evil.png">
+</li>
+
+<li>
+Atualizacao com as notas da VR <a href="http://www.ic.uff.br/~yuri/python/notas2017-1.pdf"> aqui.</a>
+<img style="width: 100px; height: 100px;" src="arquivos/bitibas_vacation.png">
+</li>
+
+
+
+<!--
+
+<li>
+Estudem as listas! <img style="width: 100px; height: 100px;" src="arquivos/bitibas_sabenada.png">
+</li>
+
+
+<li>
+Programa da aula de laboratorio de 21/06: <a href="http://www.ic.uff.br/~yuri/python/fatrec.py"> fatorial recursivo, </a> <a href="http://www.ic.uff.br/~yuri/python/inteiros.py"> inteiros, </a> 
+<a href="http://www.ic.uff.br/~yuri/python/matriznula.py"> matriz com linhas zeradas </a> <a href="http://www.ic.uff.br/~yuri/python/tribonacci.py"> e tribonacci</a>
+</li>
+
+<li>
+Lista 6 (GABARITO) <a href="http://www.ic.uff.br/~yuri/python/l6_sol.pdf"> aqui.</a>
+</li>
+
+<li>
+Programa da aula de laboratorio de 23/06: <a href="http://www.ic.uff.br/~yuri/python/lab.py"> labirinto com inimigo </a> 
+</li>
+
+
+<li>
+Notas da P2 <a href="http://www.ic.uff.br/~yuri/python/notas.pdf"> aqui.</a>
+<img style="width: 100px; height: 100px;" src="arquivos/bitibas_suspeito.png">
+</li>
+
+<li>
+Notas da VR <a href="http://www.ic.uff.br/~yuri/python/notas.pdf"> aqui.</a>
+</li>
+
+<li>
+Notas da VS <a href="http://www.ic.uff.br/~yuri/python/notas.pdf"> aqui.</a> (Boas Ferias)
+<img style="width: 100px; height: 100px;" src="arquivos/bitibas_vacation.png">
+</li>
+
+
+<img style="width: 350px; height: 230px; border:5px solid black;" alt="" src="arquivos/thunderdome.png">
+<img style="width: 350px; height: 230px; border:5px solid black;" alt="" src="arquivos/furaolho.png"><br>
+
+-->
+
+</ul>
+<p><strong>Bibliografia:</strong></p>
+<ul>
+        <li> Aprendendo Python <br>
+             Autor: Mark Lutz e David Ascher <br>
+             Editora Oreilly
+        </li>
+
+        <br>
+
+        <li> Use a Cabeca! Python <br> 
+             Autor: Paul Barry <br>
+             Editora Alta Books
+        </li>
+        <br>
+
+        <li> *Qualquer outro livro de Python*
+        </li>
+
+
+</ul>
+<p><strong>Salas de Aulas:</strong></p>
+<ul>
+<li>Aulas teoricas, Segundas e Quartas de 18 as 20 horas - Sala 321.</li> 
+<li>Aulas praticas (Quando informado), Quartas de 18 as 21 horas - Lab 306.</li>
+</ul>
+
+<p><strong>Dias sem aula (feriados, recessos, etc) :</strong></p>
+<ul>
+<li> 23 e 25 de outubro (Semana Academica) </li>
+<li> 15 de novembro (Republica) </li>
+<li> 20 de novembro (Consciencia Negra) </li>
+<li> 22 de novembro (Niteroi) </li>
+</ul>
+
+<img style="width: 100px; height: 100px;" src="arquivos/bitibas_aplus.png">
+<p><strong>Avaliacoes :</strong></p>
+<ul>
+<li> 02 de outubro P1 </li>
+<li> 04 de dezembro P2 </li>
+<li> 06 de dezembro VR </li>
+<li> 11 de dezembro VS </li> 
+</ul>
+<p><strong>Objetivos do curso:</strong></p>
+<ul>
+  <li> Algoritmos e estruturas basicas de dados </li>
+  <li> Comandos e estruturas de controle</li>
+  <li> Subprogramacao</li>
+  <li> Metodologia de desenvolvimento de programa ou subprograma</li>
+</ul>
+
+<p><strong>Software:</strong></p>
+<ul>
+  <li> Instalacao do <a
+href="https://www.python.org/downloads/">Python</a>
+</li>
+
+  <li> Ambiente de programacao para python : <a
+  href="https://www.jetbrains.com/pycharm-educational/">PyCharm</a>. 
+</li>
+
+<li>
+<font color="red"> 
+video tutorial de como instalar o python e o ambiente de programacao PyCharm <a href="http://www.ic.uff.br/~yuri/python/instalacao.mp4"> aqui. </a>
+ Agradecimento ao professor Leandro Augusto Frata. * OBS - O video eh referente a uma versao mais antiga do python e pycharm, porem a versao nova eh bem parecida * </font>
+</li>
+
+<li> Site com Python on-line, nao precisa instalar  <a
+href="https://repl.it/languages/python3">(repl.it)</a>
+</li>
+
+  <li> Python para smartphones e tablets <a
+href="https://play.google.com/store/apps/details?id=org.qpython.qpy3&hl=en">(QPython3)</a>
+</li>
+ 
+</li>
+</ul>
+<p><strong>Sistema de Notas:</strong></p>
+<ul>
+  <li> Nota Final = ((P1 + P2) / 2) </li>
+  <li> IMPORTANTE - VR (i.e. 2 chamada) Pode ser feita como avaliacao substituta tanto da P1 ou da P2, nao sendo necessario pedido formal, basta nao ter 
+feito uma das duas provas (P1 ou P2)</a>. Porem, apenas quem faltou uma das duas provas que pode fazer VR
+</ul>
+<br>
+</ul>
+
+
+</table>
+
+
+
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+<table summary="page layout table" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tbody>
+    <tr valign="top">
+
+<td class="bottomnavbar" align="left">
+<b>
+Phone: +55 (21) 2629-5637<br>
+Fax: +55 (21) 2629-5627
+</b>
+</td>
+
+<td class="bottomnavbar" align="right">
+<b>yuri (a) ic (dot) uff (dot) br</b>
+</td>
+
+</tr>
+
+  </tbody>
+</table>
+
+</body>
+</html>
