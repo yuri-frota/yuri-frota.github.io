@@ -1,0 +1,111 @@
+#Jogo do Buraco
+#
+#- O Jogo consiste em um tabuleiro contendo uma trilha de 100 quadrados (vetor de inteiros de tamanho 101)
+# e duas peças de dois jogadores. No início cada peça de cada jogador é colocada na posição 0 do tabuleiro.
+# O jogo progride em turnos:
+# - Em cada turno, alternadamente, um jogador joga um dado ( número aleatório 1-6) e move sua peça a frente.
+# A maioria dos quadrados é trilha normal, mas alguns são buracos que se o jogador cair ele perde a vez
+# ( quer dizer ele não vai andar naquela rodada)
+# - O vetor de trilhas possui 30 buracos espalhados aleatoriamente nas 100 posições da trilha (1-100)
+# e é gerado antes do jogo começar
+# - A cada turno, o valor do dado tem que ser impresso assim como qual jogador está jogando, alem disso,
+# o tabuleiro tem que ser impresso na tela com a posição identificada do jogador 1 (“J1”),
+# jogador 2 (“J2”), trilha (“x”) e buraco (“o”)
+# - Se jogador 1 e 2 estão na mesma casa então a casa marca (“J12”)
+# - Vence quem chegar na posição 100 primeiro
+
+import random
+
+v        =[0]*(101) # 0-trilha 1-buraco
+t        =['x']*(101) 
+
+#--- gera tabuleiro (inteiro) ---
+
+#buraco
+i=0
+while (i<30):
+    p   = random.randint(1,100)
+    if (v[p]==0):
+        v[p]=1 
+        i=i+1
+
+#--- gera tabuleiro (string) ---
+for i in range(1,101):
+    if (v[i]==0):
+        t[i]="x"
+    else:
+        t[i]="o"
+t[0]='J12'
+print(t)    
+    
+vitoria = False
+rodada  = 0
+j1      = 0
+j2      = 0
+
+while (not vitoria):
+    dado = random.randint(1,6)
+    
+    #jogador 1
+    if (rodada%2==0):
+        #vitoria
+        if (j1+dado>=100):
+            print("VITORIA DO JOGADOR 1")
+            vitoria = True
+        else:
+            print("Jogador 1 tirou ",dado)
+            
+            # buraco
+            if (v[j1+dado]==1):
+                print("Buraco")
+            else:  
+                #origem
+                if (t[j1]=='J12'):
+                    t[j1]     = "J2"
+                else:
+                    if (v[j1]==0):
+                        t[j1]="x"
+                    else:
+                        t[j1]="o"
+                        
+                #destino    
+                if (t[j1+dado]=='J2'):
+                    t[j1+dado]= 'J12'
+                else:
+                    t[j1+dado]= "J1"
+                
+                j1 = j1+dado
+            
+    #jogador 2
+    else:
+        #vitoria
+        if (j2+dado>=100):
+            print("VITORIA DO JOGADOR 2")
+            vitoria = True
+        else:
+            print("Jogador 2 tirou ",dado)
+            
+            # buraco
+            if (v[j2+dado]==1):
+                print("Buraco")
+            else:
+                #origem
+                if (t[j2]=='J12'):
+                    t[j2]     = "J1"
+                else:
+                    if (v[j2]==0):
+                        t[j2]="x"
+                    else:
+                        t[j2]="o"
+                
+                #destino    
+                if (t[j2+dado]=='J1'):
+                    t[j2+dado]= 'J12'
+                else:
+                    t[j2+dado]= "J2"
+                
+                j2 = j2+dado
+            
+    #impressao do tabuleiro
+    print(t,"\n")
+    rodada = rodada+1
