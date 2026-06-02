@@ -1,4 +1,6 @@
-// Definição do TAD para Pilha em vetores
+
+
+// ******************************** Definição do TAD para Pilha em vetores  *************************
 
 struct PILHA
 {
@@ -85,6 +87,134 @@ int top_pilha(pilha * P)
 
     return el;
 }
+
+/******************************* Filas Encadeadas **************************************************/
+
+// Definição do TAD para filas encadeadas
+
+struct NO
+{
+	int info;
+	struct NO *prox;
+};
+typedef struct NO no;
+
+
+struct FILA
+{
+	struct NO *ini;
+	struct NO *fim;
+};
+typedef struct FILA fila;
+
+
+no * aloca_no(void)
+{
+    no *aux;
+    aux       = (no *) malloc (sizeof(no));
+    aux->prox = NULL;
+
+    return aux;
+}
+
+
+fila * aloca_fila(void)
+{
+    fila *aux;
+    aux       = (fila *) malloc (sizeof(fila));
+    aux->ini  = NULL;
+    aux->fim  = NULL;
+
+    return aux;
+}
+
+
+int vazia_fila(fila * F)
+{
+    if (F->ini==NULL)
+        return 1;
+    else
+        return 0;
+}
+
+void entra_fila(fila *F, int el)
+{
+    no *p;
+    p        = aloca_no();
+    p->info  = el;
+
+    if (vazia_fila(F) == 1)
+    {
+        F->ini = p;
+        F->fim = p;
+    }
+    else
+    {
+        F->fim->prox = p;
+        F->fim       = p;
+    }
+}
+
+
+int sai_fila(fila *F)
+{
+    int el;
+    no  *p;
+
+    if (vazia_fila(F) == 1)
+    {
+        printf("fila vazia\n");
+        return -1;
+    }
+    else
+    {
+        el     = F->ini->info;
+        p      = F->ini;
+        F->ini = F->ini->prox;
+        free(p);
+        return el;
+    }
+}
+
+
+int primeiro_fila(fila *F)
+{
+    if (vazia_fila(F) == 1)
+    {
+        printf("fila vazia\n");
+        return -1;
+    }
+    else
+        return  F->ini->info;
+}
+
+void imprime_fila(fila * F)
+{
+    no* p = F->ini;
+
+    while (p != NULL)
+    {
+        printf("| %2d |",p->info);
+        p = p->prox;
+    }
+    printf("\n");
+}
+
+
+fila * exclui_fila (fila* F)
+{
+    no* p = F->ini;
+    while (p != NULL)
+    {
+        no* temp = p->prox;
+        free(p);
+        p        = temp;
+    }
+    free(F);
+
+    return NULL;
+}
+
 
 
 
